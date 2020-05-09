@@ -1,0 +1,26 @@
+.wrapper {
+  width: 800px;
+  height: 100px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.task-input {
+    width: 430px;
+    height: 33px;
+    padding: 0 10px;
+    font-size: 20px;
+}
+.date{
+    height: 33px;
+    padding: 5px;
+}
+.button {
+    border: 1px solid black;
+    padding: 5px;
+    background-color: #70d0f1;
+}
+.button:hover {
+cursor: pointer;
+}
+
